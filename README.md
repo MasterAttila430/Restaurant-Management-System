@@ -17,7 +17,7 @@ A desktop application for managing restaurant staff, user authentication, and ro
 * Restaurant deletion utilizing database triggers
 
 ## 🚀 Setup Instructions
-1. Run the `.sql` scripts located in the root folder on a local SQL Server instance in the following order:
+1. Run the `.sql` scripts located in the `database` folder on a local SQL Server instance in the following order:
    - `database_schema.sql`
    - `triggers.sql`
    - `users_setup.sql`
